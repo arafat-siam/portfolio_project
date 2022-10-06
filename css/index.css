@@ -256,13 +256,13 @@ body {
   }
 
   .brand1 {
-    background-image: url("/image/github.png");
+    background-image: url("image/github.png");
   }
   .brand2 {
-    background-image: url("/image/dribbble.png");
+    background-image: url("image/dribbble.png");
   }
   .brand3 {
-    background-image: url("/image/fiverr.png");
+    background-image: url("image/fiverr.png");
   }
 
   .hero_blank_blur h3 {
